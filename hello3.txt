@@ -1,6 +1,7 @@
-new lina
+lsnew lina
 2nd line
-3 line
+3 lina
 4 line
-5 line
+5 lina
 6 line
+7 line
