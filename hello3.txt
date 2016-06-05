@@ -7,3 +7,4 @@ lsnew lina
 7 line
 1st added by f2
 1st line by f1
+2nd by f1
