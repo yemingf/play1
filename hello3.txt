@@ -5,3 +5,4 @@ lsnew lina
 5 lina
 6 line
 7 line
+1st line by f1
