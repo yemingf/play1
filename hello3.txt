@@ -12,3 +12,6 @@ lsnew lina
 2nd by f1
 hxllo 1rld.
 OK THIS IS GOOD
+for (int i=0; i<100; i++) {
+	func1 (p1, p2, "hello world", f2(good, bad)); for format end while
+}
